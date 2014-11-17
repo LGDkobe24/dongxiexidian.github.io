@@ -6,7 +6,7 @@
 name: 迎风吃面
 
 # Short bio or description (displayed in the header)
-description: to markdown something for myself
+description: my memorial
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,10 +21,11 @@ footer-links:
   email: bigyangy@gmail.com
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
+  github: dongxiexidian
   instagram: 
   linkedin: 
   pinterest: 
+  sinaweibo:Bigdiaos
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
