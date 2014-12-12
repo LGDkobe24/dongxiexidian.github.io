@@ -4,11 +4,6 @@ title: Beauty
 permalink: /beauty/
 ---
 
-Phd candidate,
-
-School of Electronic Engineering and Computer Science,
-
-Peking University
 
 ### Contact me
 
