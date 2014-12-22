@@ -14,7 +14,7 @@ Peking University
 
 ### Motivation
 
-Memorial of my life, to keep in mind the ones who will be forgotten with the lose of time.
+Memorial of my life, and to keep in mind the ones who will be forgotten as time goes by.
 
 ### Contact me
 
