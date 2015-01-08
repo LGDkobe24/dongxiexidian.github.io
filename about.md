@@ -14,8 +14,8 @@ Peking University
 
 ### Motivation
 
-Memorial of my life, and to keep in mind the ones who will be forgotten as time goes by.
+Memorial of my life, and to mark up the ones who will be forgotten as time goes by.
 
-### Contact me
+### Flags
 
-[yyang1988@pku.edu.cn](mailto:yyang1988@pku.edu.cn)
+This place is leaved in blank by the author intentionally.
