@@ -13,7 +13,7 @@ title: Farewell then
 
   那声再见竟是他最后的一句
 
-  ![farewell](images/farewell/farewell.jpg)
+  ![luodan](images/farewell/luodan.jpeg)
 
   -----
 
@@ -49,6 +49,6 @@ title: Farewell then
 
   就像你不知道这竟是结局
 
-  ![luodan](images/farewell/luodan.jpeg)
+  ![farewell](images/farewell/farewell.jpg)
 
   @燕园
