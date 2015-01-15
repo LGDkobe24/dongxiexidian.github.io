@@ -15,7 +15,7 @@ title: Farewell then
 
   ![farewell](images/farewell/farewell.jpg)
 
-  -----------------------
+  -----
 
   当一辆车消失天际
 
@@ -27,7 +27,7 @@ title: Farewell then
 
   就像你不知道这竟是结局
 
-  -----------------------
+  -----
 
   在每个繁星抛弃银河的夜里
 
@@ -37,7 +37,7 @@ title: Farewell then
 
   和相聚之间的距离
 
-  -----------------------
+  -----
 
   当一辆车消失天际
 
@@ -49,6 +49,6 @@ title: Farewell then
 
   就像你不知道这竟是结局
 
-  ![luodan](images/farewell/luodan.jpg)
+  ![luodan](images/farewell/luodan.jpeg)
 
   @燕园
