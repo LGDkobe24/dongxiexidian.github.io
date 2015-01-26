@@ -17,6 +17,10 @@ title: Scientific Diary, the first
 
   17：20-17：29 进行了上述两条的记录
 
+  ![Amanda](images/figure/amanda2.jpg)
+
+  Amanda Rosenberg，不能再美。
+
   17：29-17：38 让各个人把自己的8个算法和5个更新上传到平台上，
   期间跟吴艳蕾打了电话，在平台上做了通知，让大家上传。
 
@@ -60,10 +64,6 @@ title: Scientific Diary, the first
 
   感想：第一天嘛，也没啥感想，就是觉得原来休息时间与工作时间竟然达到了一比三，好高。
   不过其中花在晚饭平常是达不到57分之久的，今天因为情况特殊去校外吃了，下次注意吧。
-
-  ![Amanda](images/figure/amanda2.jpg)
-
-  Amanda Rosenberg，不能再美。
 
   24：17-24：35 完成总结，准备睡觉
 
