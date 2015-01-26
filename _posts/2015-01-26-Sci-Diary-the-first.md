@@ -61,7 +61,7 @@ title: Scientific Diary, the first
   感想：第一天嘛，也没啥感想，就是觉得原来休息时间与工作时间竟然达到了一比三，好高。
   不过其中花在晚饭平常是达不到57分之久的，今天因为情况特殊去校外吃了，下次注意吧。
 
-  ![Amanda](images/figure/amanda.jpg)
+  ![Amanda](images/figure/amanda2.jpg)
 
   Amanda Rosenberg，不能再美。
 
