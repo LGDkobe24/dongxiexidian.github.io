@@ -10,5 +10,6 @@ description:
   那天终于决定要忘记她。
   
   ![lemon](/public/img/figure/lemon.jpg)
+  ![lemon](/public/img/1.jpg)
   
   而“那天”，已经是很久，很久以前。
