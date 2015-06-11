@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Farewell then
+category: 碎碎
+tags: 心情
+keywords: 
+description: 
 ---
 
   当一艘船沉入海底
@@ -12,8 +16,6 @@ title: Farewell then
   他们为何离去
 
   那声再见竟是他最后的一句
-
-  ![luodan](images/farewell/luodan.jpeg)
 
   -----
 
@@ -48,7 +50,5 @@ title: Farewell then
   他们为何离去
 
   就像你不知道这竟是结局
-
-  ![farewell](images/farewell/farewell.jpg)
 
   @燕园

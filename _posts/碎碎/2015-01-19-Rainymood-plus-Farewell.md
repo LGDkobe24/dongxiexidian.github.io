@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Rainymood + 后会无期
+category: 碎碎
+tags: 心情
+keywords: 
+description: 
 ---
   打开www.rainymood.com，再点开后会无期，就可以安静自在地坐一会了。
 

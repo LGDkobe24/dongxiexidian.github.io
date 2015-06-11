@@ -1,6 +1,10 @@
 ---
 layout: post
 title: CrossOver
+category: 碎碎
+tags: 心情
+keywords: 
+description: 
 ---
   第四次来到了海南，这次住的喜来登感觉还没有隔壁的福朋喜来登环境好，一个开阔的中央泳池直通海滩，毫无私密可言，
   而福朋则是曲径通幽的热带园林，小桥流水和各式泳池夹杂其间，很赞。

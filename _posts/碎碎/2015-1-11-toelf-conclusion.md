@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 托福总结
+category: 碎碎
+tags: CSC
+keywords: 
+description: 
 ---
   查到托福成绩，90分。
 
