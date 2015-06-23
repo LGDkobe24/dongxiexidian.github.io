@@ -16,4 +16,4 @@ description:
 
 	“最美瞬间”的二维码链接如下，请大家用微信app扫码打开链接(手机浏览器也能查看)。请一定在wifi下观看哦，流量很大，也帮忙点点赞吧。
 
-![Beautiful Moment](/public/img/suisui/beautiful_moment.png)
+![beautiful_moment](/public/img/suisui/beautiful_moment.png)
